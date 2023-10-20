@@ -112,3 +112,5 @@ def recommendations(title):
 
 recommended_books = recommendations("The Da Vinci Code")
 print(recommended_books)
+
+#결과값 : ['The Lake House', 'Red Rising', 'The Voyage of the Dawn Treader', 'In the Woods', 'Origin']
